@@ -50,7 +50,7 @@ Make sure Python is installed on your computer.
 Run the program with:
 
 ```bash
-python mini_atm_v2.py
+python Mini_ATM_V2.py
 ```
 
 ## Test Users
